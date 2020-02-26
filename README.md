@@ -1,0 +1,2 @@
+# Finite-Element-Method-in-Python
+The program is used to calculate the temperature changes at individual grid points of a given material over time, during the simulation of a thermal phenomenon. The program reads the input data from a text file, which contains information about the size of the grid, the density of nodes in the center and physical quantities affecting the calculated temperature change. Calculations are made using the finite element method.
