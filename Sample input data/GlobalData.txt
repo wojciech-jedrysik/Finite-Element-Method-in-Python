@@ -1,0 +1,12 @@
+100.0 - initial temperature
+500.0 - simulation time [s]
+50.0 - simulation step time [s]
+1200.0 - ambient temperature [C]
+300.0 - alfa [W/m2K]
+0.1 - H [m]
+0.1 - W [m]
+4 - N_H
+4 - N_W
+700.0 - specific heat [J/kgC]
+25.0 - conductivity [W/mC]
+7800.0 - density [kg/m3]
